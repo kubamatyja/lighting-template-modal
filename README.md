@@ -24,4 +24,4 @@ Component's controller:
 })
 ```
 
-Example above displays one buton that will show modal after click. It will reload a record that will be ready for furhter processing. 
+Example above displays one button that will show modal after click. It will reload a record that will be ready for further processing.
